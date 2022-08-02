@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'genen'
           slot-name: 'testgenen'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D2128E3D2EE4D0CAA0F12EF7353402F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D27C4BFA60D647EBB5EFE7DE87F65F64 }}
           package: .
